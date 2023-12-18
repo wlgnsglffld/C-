@@ -1,0 +1,87 @@
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\bin\Debug\Ki_2.exe.config
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\bin\Debug\Ki_2.exe
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\bin\Debug\Ki_2.pdb
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.AssemblyReference.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\obj\Debug\Ki_2.Form1.resources
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\obj\Debug\Ki_2.Properties.Resources.resources
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.GenerateResource.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.CoreCompileInputs.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\obj\Debug\Ki_2.exe
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\Ki_1\Ki_2\Ki_2\obj\Debug\Ki_2.pdb
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.AssemblyReference.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Form1.resources
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Properties.Resources.resources
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.GenerateResource.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.CoreCompileInputs.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.exe
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.pdb
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe.config
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe
+C:\Users\wlgns\Desktop\C# 팀프로젝트\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.pdb
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe.config
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.pdb
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.AssemblyReference.cache
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Form1.resources
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Properties.Resources.resources
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.GenerateResource.cache
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.CoreCompileInputs.cache
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.exe
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.pdb
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.OrderF.resources
+C:\Users\aku96\OneDrive\바탕 화면\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Credit.resources
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe.config
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.pdb
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.AssemblyReference.cache
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.SuggestedBindingRedirects.cache
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Credit.resources
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Form1.resources
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.OrderF.resources
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Properties.Resources.resources
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.GenerateResource.cache
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.CoreCompileInputs.cache
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.exe
+E:\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.pdb
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe.config
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.pdb
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.AssemblyReference.cache
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Credit.resources
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Form1.resources
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.OrderF.resources
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Properties.Resources.resources
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.GenerateResource.cache
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.CoreCompileInputs.cache
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.exe
+C:\Users\wlgns\Desktop\KIOSK\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.pdb
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe.config
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.pdb
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.AssemblyReference.cache
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Credit.resources
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Form1.resources
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.OrderF.resources
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Properties.Resources.resources
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.GenerateResource.cache
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.CoreCompileInputs.cache
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.exe
+C:\Users\갱\Desktop\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.pdb
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe.config
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.exe
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\bin\Debug\Ki_2.pdb
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.AssemblyReference.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.SuggestedBindingRedirects.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Credit.resources
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Form1.resources
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.OrderF.resources
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.Properties.Resources.resources
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.GenerateResource.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.csproj.CoreCompileInputs.cache
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.exe
+C:\Users\wlgns\Desktop\C# 팀프로젝트 8조\KIOSK\KIOSK\Ki\Ki_2\Ki_2\obj\Debug\Ki_2.pdb
